@@ -6,7 +6,8 @@ Thank you very much to the speakers and to all the attendies.
 
 ## Nikolai Kutiavin: std::accumulate: Use-Case and Alternatives
 
-You can find his great talk here ...
+* Title: std::accumulate: Use-Case and Alternatives
+* Link: [https://www.slideshare.net/slideshow/stl-algorithm-std-accumulate-and-how-can-you-use-it/278599166]
 
 ## Thorsten Wendt: A Practical and Unexpected Problem Concerning Condition Variables
 
