@@ -2,13 +2,15 @@
 
 Thank you very much to the speakers and to all the attendies.
 
-## ... held a great talk about std::accumulate ...
+# Talks
 
-You can find his talk here ...
+## Nikolai Kutiavin: std::accumulate: Use-Case and Alternatives
 
-## Thorsten Wendt held a talk about a quirk on std::condition_variables
+You can find his great talk here ...
+
+## Thorsten Wendt: A Practical and Unexpected Problem Concerning Condition Variables
 
 * Title: A Practical and Unexpected Problem Concerning Condition Variables
 * Link: [https://github.com/CPPUserGroups/Germany-Cologne.git/2025-04-29-condition-variable-by-Thorsten-Wendt.pdf]
 
-## Andreas Maniotis provides a great overview about "Strucutred Concurrency"
+## Andreas Maniotis: A Gentle Introduction to Structured Concurrency
